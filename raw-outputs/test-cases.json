@@ -1,0 +1,20 @@
+[
+  {
+    "id":"TC-01",
+    "language":"English",
+    "input":{"problem":"deposit","amount":42000,"date":"2026-09-01","days":7},
+    "output":{"issue":"Rental deposit","recommended_forum":"Local civil court, consumer process, or rent authority if applicable","draft_notice":"I request return of the unpaid rental security deposit of ₹42000 within 7 days. This amount is due under our rental arrangement dated 2026-09-01. Please make payment to the account details in my records or contact me to resolve it. A copy of this notice should be retained."}
+  },
+  {
+    "id":"TC-02",
+    "language":"Hindi",
+    "input":{"problem":"salary","amount":65000,"date":"2026-08-15","days":10},
+    "output":{"issue":"Unpaid salary","recommended_forum":"Appropriate labour authority or civil remedy, based on the employment facts","draft_notice":"I request payment of outstanding salary of ₹65000 for the period 2026-08-15. Please pay within 10 days or provide a written calculation and reason for the delay. Please retain proof of this communication."}
+  },
+  {
+    "id":"TC-03",
+    "language":"English",
+    "input":{"problem":"refund","amount":3499,"date":"2026-10-20","days":7},
+    "output":{"issue":"Online refund","recommended_forum":"NCH/consumer commission where the e-commerce transaction qualifies","draft_notice":"Please refund ₹3499 for the transaction dated 2026-10-20. It remains outstanding despite earlier requests. Please refund the amount within 7 days and provide a written confirmation. This notice is sent to preserve my claim."}
+  }
+]
